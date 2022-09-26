@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Dongle:wght@300&family=Playfair+Display&display=swap');
+
+body {
+  background-image: url('https://th.bing.com/th/id/R.4637026da68d0be05b007d690002a4de?rik=DPIuzoRqSSIsIQ&pid=ImgRaw&r=0');
+}
+
+#dogeHouse {
+  width: 600px;
+  height: 500px;
+  border: 2px solid rgb(9, 0, 0);
+  padding: 1px;
+  background-image: url("https://gameartpartnersimagehost.s3.amazonaws.com/wp-content/uploads/2020/09/GPM1.png");
+}
+
+h3 {
+  color: rgb(255, 255, 255);
+  font-family: 'Abyssinica SIL', serif;
+}
+
+.card {
+  margin-top: 1rem;
+  width: 300px;
+}
+
+#dogePic {
+  height: 10vh;
+  width: auto;
+}
+
+.card {
+  margin-top: 1rem;
+  color: white;
+  background-color: black;
+  
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(0, 0, 0);
+  color: black;
+  text-align: center;
+}
+
+.col {
+  padding-left: 100px;
+}
+
+.btn {
+  color: black;
+  background-color: wheat;
+  margin-top: 5px;
+  margin-left: 85px;
+}
